@@ -3,7 +3,7 @@
 
   # <b>Tecnologias usadas</b>
 - NESTJS --> Para a criação da API do projeto <a href="https://github.com/KiwiCut/API">Clique para ir ao repositório</a>
-- MSSQL   --> Para o armazenamento de dado<a href="https://github.com/KiwiCut/Banco_De_Dados">Clique para ir ao repositório</a>
+- MSSQL   --> Para o armazenamento de dado <a href="https://github.com/KiwiCut/Banco_De_Dados">Clique para ir ao repositório</a>
 - FLUTTER/DART --> Para as interfaces
 # 🚧Projeto de TCC🚧
  Esse é o nosso projeto de TCC! Se quiser acompanhar e/ou ajudar com alguma coisa será muito bem vindo !!
